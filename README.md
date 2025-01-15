@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-👋 Hi! I’m Akhilan Jeyaraj, a passionate software developer and tech enthusiast. I'm always looking to learn and explore new technologies. I have experience in web development, databases, and building dynamic applications. Currently, I'm focused on improving my skills in full-stack development and contributing to open-source projects.<br><br>🔭 I’m currently working on Calorie tracker with AI.<br>🌱 I’m learning Smart contracts.<br>💬 Ask me about web development, databases, or blockchain.<br>📫 How to reach me: https://www.linkedin.com/in/akhilan-jeyaraj/.
+👋 Hi! I’m Akhilan Jeyaraj, a passionate software developer and tech enthusiast. I'm always looking to learn and explore new technologies. I have experience in web development, databases, and building dynamic applications. Currently, I'm focused on improving my skills in full-stack development and contributing to open-source projects.<br><br>🔭 I’m currently working on Gym App.<br>🌱 I’m learning Smart contracts.<br>💬 Ask me about web development, databases, or blockchain.<br>📫 How to reach me: https://www.linkedin.com/in/akhilan-jeyaraj/.
 
 
 ## 🌐 Socials:
